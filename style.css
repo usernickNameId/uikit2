@@ -1,0 +1,9 @@
+.d-flex {
+    display: flex;
+    align-items: center;
+}
+.number {
+    padding-left: 5px;
+    font-size: 17px;
+    font-weight: 600;
+}
